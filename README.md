@@ -1,9 +1,12 @@
 # Data-Slayer-2.0
 
-Top 25th Submission on Kaggle
+Kaggle Competition Link:\
+https://www.kaggle.com/c/data-slayer-2-0-machine-learning-competition
+
+Top 25th Submission on Kaggle out of 222 teams
 ## Ferret Forecaster
 - Fathan Arya Maulana
-- b
+- Nabila Putri Azhari
 - M. Rifqi Dzaky Azhad
 
 <Foto leaderboar>
