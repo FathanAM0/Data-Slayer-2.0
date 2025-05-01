@@ -2,7 +2,7 @@
 
 Top 25th Submission on Kaggle
 ## Ferret Forecaster
-- a
+- Fathan Arya Maulana
 - b
 - M. Rifqi Dzaky Azhad
 
